@@ -1,0 +1,60 @@
+/**** Importation de la police ****/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+
+/**** Reset ****/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+/**** Style général de la page ****/
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #103ac4;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 3em;
+    color: #ffffff;
+    margin: 0 1em;
+}
+
+.box {
+    max-width: 500px;
+}
+
+h1 {
+    font-size: 3em;
+    text-transform: capitalize;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+iframe {
+    border-radius: 1em;
+    border: none;
+    width: 500px;
+    height: 400px;
+    transition: transform 0.3s ease-out;
+}
+
+iframe:hover {
+    transform: scale(1.02);
+}
