@@ -6,7 +6,7 @@ Ajout de la localisation via Google maps à une page web en utilisant le HTML5 e
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/google_maps_localisation/
 
 ## Projet développé avec
 
