@@ -1,5 +1,7 @@
 ## GOOGLE MAPS DANS LES SITES WEB
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Ajout de la localisation via Google maps à une page web en utilisant le HTML5 et le CSS3.
